@@ -1,2 +1,7 @@
 hiiiii
+<<<<<<< HEAD
+=======
+<p>
+hello
+>>>>>>> main
 button
